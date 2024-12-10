@@ -36,9 +36,9 @@ El ajedrez es uno de mis hobbies porque es un juego que combina estrategia, lóg
 
 Practico el deporte desde niño, creo que es una forma de desafiar mis propios límites y mejorar constantemente, tanto a nivel físico como mental. Practicar fútbol soccer y triatlón me ha enseñado la importancia de la disciplina, la perseverancia y el trabajo en equipo. En el fútbol, valoro la estrategia, la agilidad mental y la capacidad de tomar decisiones bajo presión, además de ser aficionado al Real Madrid en Europa y al Cruz Azul en México. Mientras que en el triatlón aprecio la resistencia, la preparación y el enfoque integral en el entrenamiento. Ambos deportes me han permitido desarrollar una mentalidad de competencia y me han permitido vivir momentos de mucha euforia a lo largo de mi vida.
 
-![Imagen3](//img/futbol.jpg)
+![Imagen3](/img/futbol.jpg)
 
-![Imagen4](//img/triatlon.jpg)
+![Imagen4](/img/triatlon.jpg)
 
 ### Deporte
 
