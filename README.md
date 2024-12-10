@@ -30,12 +30,11 @@ Mi curiosidad en la profesión de un **quant** surge de mi interés por aplicar 
 [Perfil en Chess.com](https://www.chess.com/member/netohbernal)
 
 El ajedrez es uno de mis hobbies porque es un juego que combina estrategia, lógica y toma de decisiones, lo que me permite desarrollar habilidades de pensamiento crítico y análisis. Me atrae la complejidad de cada partida, donde cada movimiento tiene un impacto en el futuro. Además, el ajedrez me reta constantemente a mejorar y a adaptarme a situaciones cambiantes, lo cual considero valioso tanto en lo personal como en lo profesional. Esta constante búsqueda de optimización y entendimiento de patrones en el ajedrez también resuena con mi elección por la ciencia de datos.
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Imagen2](/img/ChessSet.jpg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Deporte
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Practico el deporte desde niño, creo que es una forma de desafiar mis propios límites y mejorar constantemente, tanto a nivel físico como mental. Practicar fútbol soccer y triatlón me ha enseñado la importancia de la disciplina, la perseverancia y el trabajo en equipo. En el fútbol, valoro la estrategia, la agilidad mental y la capacidad de tomar decisiones bajo presión, además de ser aficionado al Real Madrid en Europa y al Cruz Azul en México. Mientras que en el triatlón aprecio la resistencia, la preparación y el enfoque integral en el entrenamiento. Ambos deportes me han permitido desarrollar una mentalidad de competencia y me han permitido vivir momentos de mucha euforia a lo largo de mi vida.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
