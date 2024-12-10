@@ -30,6 +30,7 @@ Mi curiosidad en la profesión de un **quant** surge de mi interés por aplicar 
 [Perfil en Chess.com](https://www.chess.com/member/netohbernal)
 
 El ajedrez es uno de mis hobbies porque es un juego que combina estrategia, lógica y toma de decisiones, lo que me permite desarrollar habilidades de pensamiento crítico y análisis. Me atrae la complejidad de cada partida, donde cada movimiento tiene un impacto en el futuro. Además, el ajedrez me reta constantemente a mejorar y a adaptarme a situaciones cambiantes, lo cual considero valioso tanto en lo personal como en lo profesional. Esta constante búsqueda de optimización y entendimiento de patrones en el ajedrez también resuena con mi elección por la ciencia de datos.
+
 ![Imagen2](/img/ChessSet.jpg)
 
 ### Deporte
