@@ -15,23 +15,21 @@
 ## Áreas de interés en la Ciencia de Datos
 ### Análisis Financiero
 
-El análisis financiero me interesa porque combina el poder de los datos con la toma de decisiones estratégicas para entender y optimizar el desempeño económico de empresas, mercados y proyectos. Me apasiona explorar cómo las herramientas analíticas pueden revelar patrones en los números, prever riesgos y oportunidades, y aportar soluciones innovadoras a problemas financieros complejos. Además, esta área conecta directamente con la **ciencia de datos**, permitiéndome aplicar habilidades técnicas como machine learning y modelado estadístico para transformar información en decisiones que impactan positivamente el entorno económico.
+El análisis financiero me interesa porque combina el poder de los datos con la toma de decisiones estratégicas para entender y optimizar el desempeño económico de empresas, mercados y proyectos. Quiero explorar cómo las herramientas analíticas pueden revelar patrones en los números, prever riesgos y oportunidades, y aportar soluciones innovadoras a problemas financieros. Además, esta área conecta directamente con la **ciencia de datos**, permitiéndome aplicar habilidades técnicas como machine learning y modelado estadístico para transformar información en decisiones que impactan positivamente el entorno económico.
 
 ![Imagen1](/img/mercados-financieros-1_0.jpg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Finanzas Cuantitativas
+[Qué es un Quant](https://datascientest.com/es/formacion-quant)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Mi curiosidad en la profesión de un **quant** surge de mi interés por aplicar modelos matemáticos y estadísticos para resolver problemas financieros. Me gustaría usar técnicas de programación y análisis de datos para modelar mercados, predecir precios de activos, evaluar riesgos y desarrollar estrategias de inversión basadas en datos. Este campo combinaría mis habilidades en ciencia de datos, matemáticas y programación con el desafío de encontrar soluciones a problemas financieros en tiempo real, lo que lo convierte en una de las áreas más dinámicas en las finanzas.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
-## Áreas de interés en la Ciencia de Datos
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## Otras Áreas de interés
+### Ajedrez
+[Perfil en Chess.com](https://www.chess.com/member/netohbernal)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
+El ajedrez es uno de mis hobbies porque es un juego que combina estrategia, lógica y toma de decisiones, lo que me permite desarrollar habilidades de pensamiento crítico y análisis. Me atrae la complejidad de cada partida, donde cada movimiento tiene un impacto en el futuro. Además, el ajedrez me reta constantemente a mejorar y a adaptarme a situaciones cambiantes, lo cual considero valioso tanto en lo personal como en lo profesional. Esta constante búsqueda de optimización y entendimiento de patrones en el ajedrez también resuena con mi elección por la ciencia de datos.
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
