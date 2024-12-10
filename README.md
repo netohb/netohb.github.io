@@ -24,6 +24,8 @@ El análisis financiero me interesa porque combina el poder de los datos con la 
 
 Mi curiosidad en la profesión de un **quant** surge de mi interés por aplicar modelos matemáticos y estadísticos para resolver problemas financieros. Me gustaría usar técnicas de programación y análisis de datos para modelar mercados, predecir precios de activos, evaluar riesgos y desarrollar estrategias de inversión basadas en datos. Este campo combinaría mis habilidades en ciencia de datos, matemáticas y programación con el desafío de encontrar soluciones a problemas financieros en tiempo real, lo que lo convierte en una de las áreas más dinámicas en las finanzas.
 
+![Imagen5](/img/giphy.webp)
+
 
 ## Otras Áreas de interés
 ### Ajedrez
