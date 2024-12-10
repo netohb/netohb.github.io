@@ -17,7 +17,7 @@
 
 El análisis financiero me interesa porque combina el poder de los datos con la toma de decisiones estratégicas para entender y optimizar el desempeño económico de empresas, mercados y proyectos. Me apasiona explorar cómo las herramientas analíticas pueden revelar patrones en los números, prever riesgos y oportunidades, y aportar soluciones innovadoras a problemas financieros complejos. Además, esta área conecta directamente con la **ciencia de datos**, permitiéndome aplicar habilidades técnicas como machine learning y modelado estadístico para transformar información en decisiones que impactan positivamente el entorno económico.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Imagen1](/img/mercados-financieros-1_0.jpg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
