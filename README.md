@@ -64,8 +64,11 @@ Practico el deporte desde niño, creo que es una forma de desafiar mis propios l
 
 ![Imagen3](/img/futbol.jpg)
 
+
 ![Imagen4](/img/triatlon.jpg)
 
+
+![Imagen7](/img/maraton.jpg)
 
 
 ## Redes Sociales
