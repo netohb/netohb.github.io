@@ -1,12 +1,8 @@
 
 # Data Scientist
 
-#### Lenguajes de Programación: Java, Python, SQL
 
-
-### Neto Bernal
-
-Hola, soy Ernesto Hernández Bernal, soy estudiante de la Licenciatura en Ciencia de Datos en el ITAM, abajo les platico un poco más sobre mí, mis gustos, intereses y pasiones.
+Actualmente estudio la Licenciatura en Ciencia de Datos en el ITAM, mis áreas de interés son la estadística y probabilidad aplicadas a las finanzas, la IA en los mercados financieros y todo lo relacionado a Fintech. Me gusta describirme cómo un atleta, soy aficionado al fútbol, y a las MMA, considero al deporte esencial en mi vida. También tengo una pasión por la filosofía y todos los temas que engloban a la experiencia humana. 
 
 ## Educación
 - Licenciatura en Ciencia de Datos | Instituto Tecnológico Autónomo de México (_Agosto 2021 - presente_)								       		
@@ -14,7 +10,26 @@ Hola, soy Ernesto Hernández Bernal, soy estudiante de la Licenciatura en Cienci
 
 ## Experiencia Laboral
 **Auxiliar Contable o Administrativo @ La Parisiana (_Agosto 2017 - Junio 2021_)**
-- Rol de soporte en tareas contables y administrativas. Incluye registrar ventas, costos, mermas, y preparar informes.
+- Rol de soporte en tareas contables y administrativas. Incluye registrar ventas, costos, mermas y preparar informes.
+
+
+### Skills
+## Technical Skills
+- Java
+- Python
+- SQL
+- Docker
+- Bash
+- Git
+- GitHub
+
+## Soft Skills
+- Buena disposición para el trabajo en equipo
+- Tendencia al pensamiento lógico
+- Buenas habilidades de comunicación
+- Experiencia en hablar ante audiencias grandes
+- Resiliencia
+
 
 ## Áreas de interés en la Ciencia de Datos
 ### Análisis Financiero
