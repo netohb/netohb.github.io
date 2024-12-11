@@ -1,11 +1,15 @@
-# netohb.github.io
 
 # Data Scientist
 
 #### Lenguajes de Programación: Java, Python, SQL
 
+
+### Neto Bernal
+
+Hola, soy Ernesto Hernández Bernal, soy estudiante de la Licenciatura en Ciencia de Datos en el ITAM, abajo les platico un poco más sobre mí, mis gustos, intereses y pasiones.
+
 ## Educación
-- Licenciatura en Ciencia de Datos | Instituto Tecnológico Autónomo de México (_2021 - 2026_)								       		
+- Licenciatura en Ciencia de Datos | Instituto Tecnológico Autónomo de México (_2021 - presente_)								       		
 
 
 ## Experiencia Laboral
@@ -52,13 +56,6 @@ Practico el deporte desde niño, creo que es una forma de desafiar mis propios l
 ![Imagen4](//img/triatlon.jpg)
 
 ## Redes Sociales
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- [Facebook](https://www.facebook.com/profile.php?id=100008007349351)
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Instagram](https://www.instagram.com/netoh_bernal/)
