@@ -13,7 +13,7 @@ Hola, soy Ernesto Hernández Bernal, soy estudiante de la Licenciatura en Cienci
 
 
 ## Experiencia Laboral
-**Auxiliar Contable o Administrativo @ **La Parisiana** (_Agosto 2017 - Junio 2021_)**
+**Auxiliar Contable o Administrativo @ La Parisiana (_Agosto 2017 - Junio 2021_)**
 - Rol de soporte en tareas contables y administrativas. Incluye registrar ventas, costos, mermas, y preparar informes.
 
 ## Áreas de interés en la Ciencia de Datos
