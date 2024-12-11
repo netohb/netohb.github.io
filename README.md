@@ -9,11 +9,11 @@
 Hola, soy Ernesto Hernández Bernal, soy estudiante de la Licenciatura en Ciencia de Datos en el ITAM, abajo les platico un poco más sobre mí, mis gustos, intereses y pasiones.
 
 ## Educación
-- Licenciatura en Ciencia de Datos | Instituto Tecnológico Autónomo de México (_2021 - presente_)								       		
+- Licenciatura en Ciencia de Datos | Instituto Tecnológico Autónomo de México (_Agosto 2021 - presente_)								       		
 
 
 ## Experiencia Laboral
-**Auxiliar Contable o Administrativo @ **La Parisiana** (_2017 - 2021_)**
+**Auxiliar Contable o Administrativo @ **La Parisiana** (_Agosto 2017 - Junio 2021_)**
 - Rol de soporte en tareas contables y administrativas. Incluye registrar ventas, costos, mermas, y preparar informes.
 
 ## Áreas de interés en la Ciencia de Datos
