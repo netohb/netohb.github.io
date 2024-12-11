@@ -41,9 +41,11 @@ El análisis financiero me interesa porque combina el poder de los datos con la 
 ### Finanzas Cuantitativas
 [Qué es un Quant](https://datascientest.com/es/formacion-quant)
 
-Mi curiosidad en la profesión de un **quant** surge de mi interés por aplicar modelos matemáticos y estadísticos para resolver problemas financieros. Me gustaría usar técnicas de programación y análisis de datos para modelar mercados, predecir precios de activos, evaluar riesgos y desarrollar estrategias de inversión basadas en datos. Este campo combinaría mis habilidades en ciencia de datos, matemáticas y programación con el desafío de encontrar soluciones a problemas financieros en tiempo real, lo que lo convierte en una de las áreas más dinámicas en las finanzas.
+Mi curiosidad en la profesión de un quant, surge de mi interés por aplicar modelos matemáticos y estadísticos para resolver problemas financieros. Me gustaría usar técnicas de programación y análisis de datos para modelar mercados, predecir precios de activos, evaluar riesgos y desarrollar estrategias de inversión basadas en datos. Este campo combinaría mis habilidades en ciencia de datos, matemáticas y programación con el desafío de encontrar soluciones a problemas financieros en tiempo real, lo que lo convierte en una de las áreas más dinámicas en las finanzas.
 
 ![Imagen5](/img/giphy.webp)
+
+
 
 
 ## Otras Áreas de interés
@@ -53,6 +55,8 @@ Mi curiosidad en la profesión de un **quant** surge de mi interés por aplicar 
 El ajedrez es uno de mis hobbies porque es un juego que combina estrategia, lógica y toma de decisiones, lo que me permite desarrollar habilidades de pensamiento crítico y análisis. Me atrae la complejidad de cada partida, donde cada movimiento tiene un impacto en el futuro. Además, el ajedrez me reta constantemente a mejorar y a adaptarme a situaciones cambiantes, lo cual considero valioso tanto en lo personal como en lo profesional. Esta constante búsqueda de optimización y entendimiento de patrones en el ajedrez también resuena con mi elección por la ciencia de datos.
 
 ![Imagen2](/img/ChessSet.jpg)
+
+
 
 ### Deporte
 
@@ -68,3 +72,5 @@ Practico el deporte desde niño, creo que es una forma de desafiar mis propios l
 - [Facebook](https://www.facebook.com/profile.php?id=100008007349351)
 
 - [Instagram](https://www.instagram.com/netoh_bernal/)
+  
+- [X](https://x.com/neto_bernal8)
