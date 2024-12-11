@@ -13,8 +13,8 @@ Actualmente estudio la Licenciatura en Ciencia de Datos en el ITAM, mis áreas d
 - Rol de soporte en tareas contables y administrativas. Incluye registrar ventas, costos, mermas y preparar informes.
 
 
-### Skills
-## Technical Skills
+## Skills
+### Technical Skills
 - Java
 - Python
 - SQL
@@ -23,7 +23,7 @@ Actualmente estudio la Licenciatura en Ciencia de Datos en el ITAM, mis áreas d
 - Git
 - GitHub
 
-## Soft Skills
+### Soft Skills
 - Buena disposición para el trabajo en equipo
 - Tendencia al pensamiento lógico
 - Buenas habilidades de comunicación
